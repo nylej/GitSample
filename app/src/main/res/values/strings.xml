@@ -4,5 +4,7 @@
     <string name="app_name">MyGitSample</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_branch1">Branch1Activity</string>
+    <string name="title_activity_branch2_activituy">Branch2Activituy</string>
 
 </resources>

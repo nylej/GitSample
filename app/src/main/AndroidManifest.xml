@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Branch1Activity"
+            android:label="@string/title_activity_branch1" >
+        </activity>
+        <activity
+            android:name=".Branch2Activituy"
+            android:label="@string/title_activity_branch2_activituy" >
+        </activity>
     </application>
 
 </manifest>
